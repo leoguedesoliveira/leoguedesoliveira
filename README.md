@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como secretário em uma escola de educação infantil
 - 🌱 Estudando Desenvolvimento web
 - 📫 (contato no email: leonardoguedes.dasilvaguedesol@gmail.com)
-- ⚡ Sou péssimo em League of Legends
 
 <div align="center">
   <a href="https://github.com/Leonardohp85">
