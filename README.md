@@ -1,6 +1,6 @@
 ### Olá! Me chamo Leonardo Guedes 👋
 
-- 🔭 Hoje trabalho como secretário em uma escola de educação infantil
+- 🔭 Procurando novas oportunidades!
 - 🌱 Estudando Desenvolvimento web
 - 📫 (contato no email: leonardoguedes.dasilvaguedesol@gmail.com)
 
