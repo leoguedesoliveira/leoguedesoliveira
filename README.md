@@ -1,7 +1,7 @@
 ### Olá! Me chamo Leonardo Guedes 👋
 
-- 🔭 Procurando novas oportunidades!
-- 🌱 Estudando Desenvolvimento web
+- 🔭 Atuo como desenvolvedor de software focado na criação de Webservices
+- 🌱 Estudando ethical hacking
 - 📫 (contato no email: leonardoguedes.dasilvaguedesol@gmail.com)
 
 <div align="center">
