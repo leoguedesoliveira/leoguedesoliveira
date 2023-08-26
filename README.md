@@ -1,7 +1,7 @@
 ### Olá! Me chamo Leonardo Guedes 👋
 
-- 🔭 Atuo como desenvolvedor de software focado na criação de Webservices
-- 🌱 Estudando ethical hacking
+- 🔭 Atuo como desenvolvedor back-end Centura | Java
+- 🌱 Estudando Java Springboot | Angular
 - 📫 (contato no email: leonardoguedes.dasilvaguedesol@gmail.com)
 
 <div align="center">
