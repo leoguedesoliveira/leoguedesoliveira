@@ -8,7 +8,6 @@ Developing solutions with React.js and Node. I always try to keep up to date wit
 
 * 🌍  I'm based in Osasco-SP
 * ✉️  You can contact me at [leonardoguedes.dasilvaguedesol@gmail.com](mailto:leonardoguedes.dasilvaguedesol@gmail.com)
-* 🚀  I'm currently working on [QuickSale](http://https://github.com/leoguedesoliveira/quick-sale)
 * 🧠  I'm learning Reack.js, Node and Electron
 * ⚡  I'm sure Celso Portiolli knows something...
 
