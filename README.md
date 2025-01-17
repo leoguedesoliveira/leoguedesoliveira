@@ -8,7 +8,7 @@ Developing front-end solutions with React.js. I always try to keep up to date wi
 
 * 🌍  I'm based in Osasco-SP
 * ✉️  You can contact me at [leonardoguedes.dasilvaguedesol@gmail.com](mailto:leonardoguedes.dasilvaguedesol@gmail.com)
-* 🧠  I'm learning Reack.js, Node and Electron
+* 🧠  I'm learning React.js
 * ⚡  I'm sure Celso Portiolli knows something...
 
 ### Skills
