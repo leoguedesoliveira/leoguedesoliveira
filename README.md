@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-Developing front-end solutions with React.js. I always try to keep up to date with best practices.
+Developing front-end solutions with Node.js and React.js. I always try to keep up to date with best practices.
 
 * 🌍  I'm based in Osasco-SP
 * ✉️  You can contact me at [leonardoguedes.dasilvaguedesol@gmail.com](mailto:leonardoguedes.dasilvaguedesol@gmail.com)
