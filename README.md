@@ -7,7 +7,7 @@ FullStack Developer
 Developing front-end solutions with Node.js and React.js. I always try to keep up to date with best practices.
 
 * 🌍  I'm based in Osasco-SP
-* ✉️  You can contact me at [leonardoguedes.dasilvaguedesol@gmail.com](mailto:leonardoguedes.dasilvaguedesol@gmail.com)
+* ✉️  You can contact me at [leovnardxsilvaguedes@gmail.com](mailto:leovnardxsilvaguedes@gmail.com)
 * 🧠  I'm learning Node.js and React.js
 * ⚡  I'm sure Celso Portiolli knows something...
 
